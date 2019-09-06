@@ -1,0 +1,36 @@
+.header {
+  background-color: #fdb913;
+  padding: 25px;
+}
+
+.contents {
+  background-color: #006a44;
+  color: white;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer {
+  background-color: #c1272d;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.frame {
+  background: grey;
+  border: grey 1px solid;
+  margin: 15px;
+  padding: 10px;
+}
+
+.caption {
+  background-color: grey;
+  text-align: right;
+}
+
+.middle {
+  margin: auto;
+  width: 66%;
+}
